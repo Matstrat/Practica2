@@ -9,11 +9,13 @@ La actividad ha sido realizada de manera individual por MB.
 
 * accidents.ipynb: Jupyter notebook con el análisis
 
-* Respuestas.pdf: Las respuestas a las preguntas
+* accidents.html: El notebook en el formato html
 
-* dot_traffic_2015.csv: Observaciones del volumen de tráfico diario, por hora y dirección en los EE. UU (2.1GB). Este fichero no está aquí en GitHub, porque su tamaño sobrepasa al limite. Se puede encontrar en https://www.kaggle.com/jboysen/us-traffic-2015
+* accidents.pdf: El notebook en el formato pdf
 
-* US_Accidents_May19.csv: Un conjunto de datos sobre accidentes de tráfico en todo los EE. UU.. Este fichero no está aquí en GitHub, porque su tamaño sobrepasa al limite. Se puede encontrar en https://www.kaggle.com/sobhanmoosavi/us-accidents
+* dot_traffic_2015.csv: Observaciones del volumen de tráfico diario, por hora y dirección en los EE. UU. (2.1GB). Este fichero no está aquí en GitHub, porque su tamaño sobrepasa al límite. Se puede encontrar en https://www.kaggle.com/jboysen/us-traffic-2015
+
+* US_Accidents_May19.csv: Un conjunto de datos sobre accidentes de tráfico en todo los EE. UU.. Este fichero no está aquí en GitHub, porque su tamaño sobrepasa al límite. Se puede encontrar en https://www.kaggle.com/sobhanmoosavi/us-accidents
 
 * US_States.txt: Fichero con las correspondencias entre las abreviaturas y los códigos de los estados de los EE. UU.
 
