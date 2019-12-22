@@ -1,21 +1,21 @@
-<h1>Práctica 1: Web scraping</h1>
+<h1>Práctica 2:</h1>
 <h2>Descripción</h2>
-El conjunto de datos fue generado como parte de la actividad práctica y reúne diferentes informaciones sobre los videojuegos.
+En esta práctica se analizan a los factores que influencian a los accidentes de tráfico.
 
 <h2>Miembros del equipo</h2>
 La actividad ha sido realizada de manera individual por MB.
 
 <h2>Ficheros del código fuente</h2>
 
-* scraper.py: Genera el conjunto de datos "games.csv" a partir de Steam.
-
-* data_cleaning.py: Limpiar el conjunto de datos "games.csv" y genera "games_clean.csv"
+* accidents.ipynb: Jupyter notebook con el análisis
 
 * Respuestas.pdf: Las respuestas a las preguntas
 
-* games.csv: El conjunto de datos
+* dot_traffic_2015.csv: Observaciones del volumen de tráfico diario, por hora y dirección en los EE. UU (2.1GB). Este fichero no está aquí en GitHub, porque su tamaño sobrepasa al limite. Se puede encontrar en https://www.kaggle.com/jboysen/us-traffic-2015
 
-* games_clean.csv: El conjunto de datos limpiados
+* US_Accidents_May19.csv: Un conjunto de datos sobre accidentes de tráfico en todo los EE. UU.. Este fichero no está aquí en GitHub, porque su tamaño sobrepasa al limite. Se puede encontrar en https://www.kaggle.com/sobhanmoosavi/us-accidents
 
-* thumbsnails.rar: Carpeta comprimida con unas imágenes en miniatura de los videojuegos (solamente hay una parte de las imágenes, porque serían más de 33000 y tomarían demasiado espacio)
+* US_States.txt: Fichero con las correspondencias entre las abreviaturas y los códigos de los estados de los EE. UU.
+
+
 
