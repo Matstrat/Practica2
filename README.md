@@ -7,7 +7,7 @@ La actividad ha sido realizada de manera individual por MB.
 
 <h2>Ficheros del código fuente</h2>
 
-* accidents.ipynb: Jupyter notebook con el análisis
+* accidents.ipynb: El Jupyter notebook con el análisis
 
 * accidents.html: El notebook en el formato html
 
