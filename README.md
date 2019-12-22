@@ -9,7 +9,7 @@ La actividad ha sido realizada de manera individual por MB.
 
 * accidents.ipynb: El Jupyter notebook con el análisis
 
-* accidents.html: El notebook en el formato html
+* accidents.html: El notebook en el formato html (mejor para leer que el pdf)
 
 * accidents.pdf: El notebook en el formato pdf
 
