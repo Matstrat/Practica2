@@ -1,6 +1,6 @@
 <h1>Práctica 2:</h1>
 <h2>Descripción</h2>
-En esta práctica se analizan a los factores que influencian a los accidentes de tráfico.
+En esta práctica se analizan a los factores que influyen a los accidentes de tráfico.
 
 <h2>Miembros del equipo</h2>
 La actividad ha sido realizada de manera individual por MB.
@@ -18,6 +18,7 @@ La actividad ha sido realizada de manera individual por MB.
 * US_Accidents_May19.csv: Un conjunto de datos sobre accidentes de tráfico en todo los EE. UU. (0.8GB). Este fichero no está aquí en GitHub, porque su tamaño sobrepasa al límite. Se puede encontrar en https://www.kaggle.com/sobhanmoosavi/us-accidents
 
 * US_States.txt: Fichero con las correspondencias entre las abreviaturas y los códigos de los estados de los EE. UU.
+
 
 
 
